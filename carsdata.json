@@ -1,0 +1,49 @@
+[
+    
+    {
+        "id" : 1,
+        "name" : "fx",
+        "model" : 2006,
+        "Price": "Pkr 30,0000",
+        "count": 20,
+        "rating": 4.5,
+        "colors": ["red","blue"],
+        "passtest": true,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSS9Wn7avC4lF19bIad3JIJLDFfsa1rfIw1g&usqp=CAU"
+    },
+    {
+        "id" : 2,
+        "name" : "Mehran",
+        "model" : 2010,
+        "Price": "Pkr 40,0000",
+        "count": 50,
+        "rating": 4.7,
+        "colors": ["red","blue","skyblue"],
+        "passtest": true,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaDHqIhSg_iEx4vIVtdFRBZfj9erRTdOmudQ&usqp=CAU"
+    },
+
+    {
+        "id" : 3,
+        "name" : "Mehran",
+        "model" : 2015,
+        "Price": "Pkr 45,0000",
+        "count": 50,
+        "rating": 4.8,
+        "colors": ["red","blue","skyblue"],
+        "passtest": true,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlfXAt8YnQMMKAU5NkqcgvHJZi8Akc5AEYxw&usqp=CAU"
+    },
+
+    {
+        "id" : 4,
+        "name" : "BMW",
+        "model" : 2021,
+        "Price": "Pkr 145,0000",
+        "count": 50,
+        "rating": 4.8,
+        "colors": ["red","blue","skyblue"],
+        "passtest": true,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Rv3SKsEZ-UN98YrJ-Xs2qFAMFBuQW2mu4w&usqp=CAU"
+    }
+]
