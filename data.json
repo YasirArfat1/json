@@ -1,0 +1,12 @@
+{
+    "name" : "fx",
+    "model" : 2021,
+    "passtest" : true,
+    "color" : ["blue","red"],
+    "rating" : {
+        "count" : 20,
+        "rate" : 4.5
+    }
+    ,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ2vnNFh-e3F2PyfZLE8bUlySpBQjuBz2FCA&usqp=CAU"
+}
