@@ -1,0 +1,97 @@
+{
+    "faculty":
+    [
+        {
+            "f_id": 1,
+            "f_name": "Yasir Arfat",
+            "f_education": "Master of Computer Sciemce",
+            "f_experice":"3 Years",
+            "f_email":"yasir317.kh@gmail.com",
+            "f_cnic":"15302-1123121-1",
+            "f_phone":"0312-4422121",
+            "f_Gender": "Male",
+            "f_timing":"9 to 5",
+            "f_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR892JwdTtR2GBfOXdSMAQ1JLus9zKCizBaIg&usqp=CAU"
+        },
+        {
+            "f_id": 2,
+            "f_name": "Ali Khan",
+            "f_education": "BSCS",
+            "f_experice":"3 Years",
+            "f_email":"alikhan.kh@gmail.com",
+            "f_cnic":"15302-1123121-2",
+            "f_phone":"0345-4422121",
+            "f_Gender": "Male",
+            "f_timing":"9 to 5",
+            "f_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmyGm9qaS1tc8zYfxUDGx4XS8x6GQIQhgMrw&usqp=CAU"
+        },
+        {
+            "f_id": 3,
+            "f_name": "Irtiza Haider",
+            "f_education": "BSCS",
+            "f_experice":"3 Years",
+            "f_email":"Irtia.h1@gmail.com",
+            "f_cnic":"15402-1123121-2",
+            "f_phone":"0315-4422121",
+            "f_Gender": "Male",
+            "f_timing":"1 to 9",
+            "f_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDIsQJu0o5youCyWxcSco6i8EPObGZylYTdQ&usqp=CAU"
+        },
+
+        {
+            "f_id": 4,
+            "f_name": "Farooq Manzar",
+            "f_education": "ADSE",
+            "f_experice":"4 Years",
+            "f_email":"farooq.h1@gmail.com",
+            "f_cnic":"15102-1123121-2",
+            "f_phone":"0315-4422121",
+            "f_Gender": "Male",
+            "f_timing":"1 to 9",
+            "f_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9jRjNVKiV0h9vjsqh0QJWpIg_Cdp4tp5SDQ&usqp=CAU"
+        },
+
+        {
+            "f_id": 5,
+            "f_name": "Noor ",
+            "f_education": "ADSE",
+            "f_experice":"3 Years",
+            "f_email":"Noor.h1@gmail.com",
+            "f_cnic":"15101-1123121-2",
+            "f_phone":"0323-4422121",
+            "f_Gender": "Female",
+            "f_timing":"1 to 9",
+            "f_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_MBDy_Jx8SG1MVEnFo7RIaS1GW3RqUH2JHQ&usqp=CAU"
+        }
+    ],
+    "student":
+    [
+        {
+            "s_id":1,
+            "s_name":"Hamza khan",
+            "s_email":"hamza@gmail.com",
+            "s_semester":"DISM",
+            "s_age": 24,
+            "s_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKD87kTT3nFTB98aW50WcSzqoYh1qsus7xLQ&usqp=CAU"
+        },
+
+        {
+            "s_id":2,
+            "s_name":"hoor khan",
+            "s_email":"hoor@gmail.com",
+            "s_semester":"CPISM",
+            "s_age": 21,
+            "s_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYXGKWFW8XzTZA9yp8bNJWcnjoOSQQo4EKzw&usqp=CAU"
+        },
+        {
+            "s_id":3,
+            "s_name":"Anus khan",
+            "s_email":"anus@gmail.com",
+            "s_semester":"CPISM",
+            "s_age": 21,
+            "s_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYXGKWFW8XzTZA9yp8bNJWcnjoOSQQo4EKzw&usqp=CAU"
+        }
+        
+
+    ]
+}
